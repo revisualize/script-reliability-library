@@ -9,6 +9,8 @@
 [![content-policy](https://github.com/revisualize/script-reliability-library/actions/workflows/content-policy.yml/badge.svg)](https://github.com/revisualize/script-reliability-library/actions/workflows/content-policy.yml)
 [![license: all rights reserved](https://img.shields.io/badge/license-all%20rights%20reserved-lightgrey)](LICENSE)
 
+**Project page:** [revisualized.com/projects/script-reliability-library](https://revisualized.com/projects/script-reliability-library)
+
 Shared reliability plumbing for operational shell scripts. Source it once, call `reliability_initialize`, and get consistent logging, dependency checks, single-instance locking, temp-directory cleanup, and retry-with-backoff without re-implementing them in every script you write.
 
 This is a library, not a program. You source `reliability_library.sh` from your own script; you do not execute it directly. Every public name is prefixed `reliability_` so it will not collide with yours.
