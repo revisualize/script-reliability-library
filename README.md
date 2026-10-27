@@ -74,4 +74,4 @@ A badge reports the latest run of those checks. What the tool needs on your own 
 
 View-only, all rights reserved. This is a reference sample of my work, not open-source. See `LICENSE`.
 
-The full body of work, and how to hire me, are at **[revisualized.com](https://revisualized.com)**.
+The full body of work is at **[revisualized.com](https://revisualized.com)**.
